@@ -20,13 +20,13 @@ In today's world of scientific research and development, the ability to effectiv
 ## Day 1
 
 ### 9:00 AM - Introduction to Collaborative Software Development (Kevin)
-- Understanding the importance of collaboration in software development projects.
-- Overview of version control systems and their significance.
-- Introduction to Git and its role in facilitating team-based development.
-- Basic Git commands and workflows.
-- GitHub desktop
+- Understanding the importance of collaboration in software development projects. -------> Done
+- Overview of version control systems and their significance. -------> Done
+- Introduction to Git and its role in facilitating team-based development. -------> Done
+- Basic Git commands and workflows. -------> Done
+- GitHub desktop -------> Done
 - Activities
-  - Create a GitHub account.
+  - Create a GitHub account. -------> Done
 
 ### 10:00 AM - Environment Management with Anaconda (Kevin)
 - Creating reproducible development environments with virtual environments.
